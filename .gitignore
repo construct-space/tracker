@@ -1,0 +1,15 @@
+# Binaries
+/tracker
+*.exe
+*.test
+*.out
+
+# Local env
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
